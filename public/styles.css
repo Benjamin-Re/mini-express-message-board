@@ -1,0 +1,7 @@
+.messagesContainer div:nth-child(odd) {
+    background-color: #f0f0f0;
+}
+
+.messagesContainer div:nth-child(even) {
+    background-color: #ffffff;
+}
